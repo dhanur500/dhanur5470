@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Frontend
+- 🌱 I’m currently learning 
+<!--- 👯 I’m looking to collaborate on ... 
+- 💬 Ask me about ...
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...-->
+- 📫 How to reach me: 😄
+- ⚡ Fun fact: Errors sometimes teases
 
 <!--
 **biztdhanur/biztdhanur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
