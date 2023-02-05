@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Frontend
+- 🔭 I’m currently working on Frontend ReactJS
 - 🌱 I’m currently learning 
 <!--- 👯 I’m looking to collaborate on ... 
 - 💬 Ask me about ...
