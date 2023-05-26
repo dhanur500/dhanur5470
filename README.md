@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Frontend ReactJS,Redux
+- 🔭 I’m currently working and
 - 🌱 I’m currently learning 
 <!--- 👯 I’m looking to collaborate on ... 
 - 💬 Ask me about ...
